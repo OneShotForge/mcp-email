@@ -13,7 +13,7 @@ This is the public face of `mcp-email`, a paid product from [OneShotForge](https
 - The README you're reading (features, scope, FAQ)
 - The full per-provider config docs ([`docs/CONFIG.md`](docs/CONFIG.md))
 - The public changelog ([`CHANGELOG.md`](CHANGELOG.md))
-- The license terms ([`LICENSE.md`](LICENSE.md))
+- The license terms ([`LICENSE`](LICENSE))
 
 If you're shopping: this is enough to decide whether `mcp-email` fits your setup. The buy link is at the top.
 
@@ -45,7 +45,7 @@ After checkout on [Gumroad](https://shop.oneshotforge.com/l/mcp-email), you down
 - **Dockerfile + docker-compose.yml** ready to run
 - `.env.example` with the full template and inline comments
 - The expanded README with install instructions, Claude Code wiring, production deployment via Caddy, and troubleshooting
-- A **perpetual commercial license** (see [LICENSE.md](LICENSE.md) for the full terms — unlimited business use, no resale, refund within the first day if it doesn't fit)
+- A **perpetual commercial license** (see [LICENSE](LICENSE) for the full terms — unlimited business use, no resale, refund within the first day if it doesn't fit)
 - Free **patch and minor updates** within the 1.x major version
 
 Approximate first-tool-call time after checkout: 5 minutes if your provider's app password is already generated.
@@ -170,7 +170,7 @@ Vote with email — what do you want next? `hello@oneshotforge.com`.
 
 ## License
 
-Commercial license — see [`LICENSE.md`](LICENSE.md).
+Commercial license — see [`LICENSE`](LICENSE).
 
 TL;DR: unlimited personal and business use after purchase, no resale or redistribution of the source.
 
