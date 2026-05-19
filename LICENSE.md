@@ -1,0 +1,66 @@
+# Commercial License
+
+**Software:** mcp-email
+**Version:** 1.0.0
+**Publisher:** OneShotForge (the "Licensor")
+**Effective:** the date the Licensee purchases a copy from an authorized OneShotForge distribution channel.
+
+---
+
+## 1. Grant of License
+
+Subject to the terms below and to receipt of full payment, the Licensor grants the Licensee a **non-exclusive, non-transferable, perpetual, worldwide** license to:
+
+- **Use** the software for any **personal or internal business purpose**, with no limit on the number of email accounts, agents, machines, or instances operated by the Licensee or its employees.
+- **Modify** the source code for the Licensee's own use, including adding features, fixing bugs, and integrating with other systems.
+- **Self-host** the software on infrastructure owned, rented, or operated by the Licensee.
+
+A single purchase covers a single Licensee (one individual, one legal entity, or one team operating under a single owner). A team of agents or instances operated by that Licensee counts as one License.
+
+## 2. Restrictions
+
+The Licensee shall **not**:
+
+1. **Redistribute** the source code, binaries, or any substantial portion of the software, in original or modified form, whether for free or for a fee. This includes publishing on package registries, code hosting platforms, marketplaces, or any other public channel.
+2. **Resell** the software, alone or as a primary component of another product or service marketed as an email-MCP or equivalent. (Building a higher-level product that *uses* the software internally — e.g. a SaaS that, among many features, runs `mcp-email` server-side to talk to its own mailboxes — is permitted.)
+3. **Sublicense** the software to a third party.
+4. **Remove or alter** copyright, trademark, or license notices in the source code or documentation.
+5. **Use the software** for any purpose unlawful in the Licensee's jurisdiction, including but not limited to unsolicited bulk email, harassment, or unauthorized access to third-party mailboxes.
+
+## 3. Updates and support
+
+- **Patch and minor updates** (`1.0.x`, `1.x.0`) within the `1.x` major version are included free of charge for the lifetime of the License.
+- **Major version upgrades** (`2.0.0+`) may be offered as paid upgrades at the Licensor's discretion. The Licensee's existing License for `1.x` remains valid in perpetuity.
+- **Email support** at `hello@oneshotforge.com` is provided on a best-effort basis. Response targets are not contractual.
+- Critical security patches will be backported to the most recent major version for a minimum of 12 months from the next major release.
+
+## 4. Warranty disclaimer
+
+The software is provided **"as is", without warranty of any kind**, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+The Licensor is not liable for:
+- Data loss, mail loss, or any consequential damage from running the software.
+- Outages or rate-limiting imposed by third-party email providers.
+- Misuse of the software by the Licensee or third parties.
+- Compatibility breaks introduced by upstream changes to the MCP specification or email provider APIs.
+
+In no event shall the Licensor's total liability exceed the amount paid by the Licensee for the License.
+
+## 5. Termination
+
+The License terminates automatically if the Licensee materially breaches any of the restrictions in Section 2. Upon termination, the Licensee shall cease all use and destroy all copies of the software in their possession. Sections 2, 4, and 6 survive termination.
+
+The Licensee may terminate the License at any time by ceasing use and destroying all copies. No refund is implied by voluntary termination.
+
+## 6. Governing law
+
+This License is governed by the laws of **France**, excluding its conflict-of-laws provisions. Any dispute arising from this License shall be brought exclusively before the competent courts of Paris, France.
+
+## 7. Contact
+
+For licensing questions, volume / team licensing, or compliance inquiries:
+**hello@oneshotforge.com**
+
+---
+
+© 2026 OneShotForge. All rights reserved. The name "mcp-email" and the OneShotForge wordmark are trademarks of OneShotForge.
